@@ -1,3 +1,6 @@
+/**
+ * Created by randy on 7/31/16.
+ */
 const argv = require("yargs").argv;
 const browserify = require("browserify");
 const browserSync = require("browser-sync").create();
